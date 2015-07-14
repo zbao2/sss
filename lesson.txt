@@ -1,1 +1,3 @@
 we learned something today
+
+We learned about using Unix, which was a very user unfriendly system in Jurassic Park.
